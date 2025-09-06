@@ -27,7 +27,7 @@ sales-data-analysis/
 │   └── sales_analysis.ipynb # Jupyter Notebook with EDA & visualizations
 │
 ├── dashboard/
-│   ├── tableau_dashboard.twbx   # If using Tableau
+│
 │   └── powerbi_dashboard.pbix   # If using Power BI
 │
 ├── scripts/
