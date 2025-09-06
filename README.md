@@ -48,8 +48,8 @@ sales-data-analysis/
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Jupyter notebook in `notebooks/` to reproduce the analysis.
-4. Open `dashboard/` to explore the interactive dashboards.
+3. Run the Jupyter notebook to reproduce the analysis.
+4. Open to explore the interactive dashboards.
 
 ## Insights
 - Revenue peaks during holiday seasons (Nov–Dec).
